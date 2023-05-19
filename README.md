@@ -2,23 +2,18 @@
 
 
 
-# Hi 👋.
-💻 Currently working as a Frontend Web Developer.
-<br/>
-👩‍💻 Love to code.
-<br/>
-🏫 Love to learn.
-<br/>
-<br/>
+# Hi there, I'm Rubiyet Fardous 👋
 I have completed my bachelor's degree in computer science and engineering with deep knowledge of modern web technologies capable of designing and implementing visually pleasing, efficient, and optimized software. Experienced in delivering quality products in production environments following proper design principles and methodologies.
 
-🔭 I am currently working at **AdvancedChatSolutions**
+💻 I am currently working as a Frontend Web Developer at **AdvancedChatSolutions**
 
 🌱 I am currently working on **React, Next Js**.
 
 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-⚡ Fun fact **I always loved to explore new places**.
+🔭 I'm a passionate learner who's always willing to learn and work across **technologies and domains**.
+
+⚡ I love to explore new technologies and leverage them to solve **real-life problems**.
 
 <br/>
 
