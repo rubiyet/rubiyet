@@ -1,4 +1,5 @@
-![I am a Web Developer](https://i.ibb.co/2Zcw8rr/1-d-Rpu-J5-IFMfl-Nv-WUGMYr-Tc-Q.png)
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/26208205/204192045-8efb70c1-374c-4dc9-9b08-01135cab3d6e.gif"/></p>
+
 
 
 # Hi 👋.
