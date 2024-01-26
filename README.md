@@ -6,7 +6,7 @@
 I have completed my bachelor's degree in computer science and engineering with deep knowledge of modern web technologies capable of designing and implementing visually pleasing, efficient, and optimized software. Experienced in delivering quality products in production environments following proper design principles and methodologies.
 
 
-💻 I am currently working as a Frontend Web Developer at **AdvancedChatSolutions**
+💻 I am currently working as a Software Engineer at **US-Bangla Group**
 
 🌱 I am currently working on **React, Next Js**.
 
